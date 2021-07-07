@@ -1,1 +1,1 @@
-<?php echo strstr("Vikator","ka")?>
+<?php echo strstr("Vikato32548","ka")?>
